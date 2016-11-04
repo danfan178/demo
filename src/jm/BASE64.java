@@ -42,7 +42,7 @@ public class BASE64 {
 
 	public static void main(String[] args) {
 
-		String str = "12345678";
+		String str = "1";
 
 		try {
 			String result1 = BASE64.encryptBASE64(str.getBytes());
